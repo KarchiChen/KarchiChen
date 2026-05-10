@@ -10,3 +10,5 @@ Engineer working in Python / JavaScript / AI-LLM applications.
 - Streaming, observability, error handling — the boring-but-critical parts
 
 Open to freelance / contract work.
+
+**Contact:** jiajingc1@gmail.com
